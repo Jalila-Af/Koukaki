@@ -1,0 +1,3 @@
+2024/06/04 17:21:25 [alert] 12480#2372: OpenEvent("ngx_master_12228") failed (2: FormatMessage() error:(15100))
+2024/06/21 16:52:29 [error] 3268#11108: *216 connect() failed (10061: FormatMessage() error:(15100)) while connecting to upstream, client: 127.0.0.1, server: , request: "GET / HTTP/1.0", upstream: "fastcgi://127.0.0.1:10033", host: "koukaki.local", referrer: "http://koukaki.local/wp-admin/"
+2024/06/21 16:52:31 [error] 3268#11108: *216 connect() failed (10061: FormatMessage() error:(15105)) while connecting to upstream, client: 127.0.0.1, server: , request: "GET / HTTP/1.0", upstream: "fastcgi://127.0.0.1:10032", host: "koukaki.local", referrer: "http://koukaki.local/wp-admin/"
