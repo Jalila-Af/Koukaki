@@ -1,0 +1,9 @@
+Jun 26 2024 20:00:03
+{"Number":2,"Message":"Undefined variable $direct_download_supported","File":"C:\\Users\\larma\\Documents\\Projet 9-Koukaki\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\view\\backups\\backups-list.php","Line":106}
+
+Jun 26 2024 20:00:03
+{"Number":2,"Message":"Undefined variable $direct_download_supported","File":"C:\\Users\\larma\\Documents\\Projet 9-Koukaki\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\view\\backups\\backups-list.php","Line":106}
+
+Jun 26 2024 20:00:13
+{"Number":2,"Message":"Undefined array key \"offset\"","File":"C:\\Users\\larma\\Documents\\Projet 9-Koukaki\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\controller\\class-ai1wm-backups-controller.php","Line":224}
+
